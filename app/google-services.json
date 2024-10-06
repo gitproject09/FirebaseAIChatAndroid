@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "118848125511",
+    "project_id": "talkie-ai-chat",
+    "storage_bucket": "talkie-ai-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118848125511:android:62d0d012a7a777dbba8f62",
+        "android_client_info": {
+          "package_name": "com.supan.aichat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118848125511-1d4io8sndpiaeqrale1mtb2jemn92gap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsWjvbZBTH7tIwUQliLsHrwaX_l6UrHmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118848125511-1d4io8sndpiaeqrale1mtb2jemn92gap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
