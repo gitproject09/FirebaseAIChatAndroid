@@ -51,18 +51,12 @@ send)
 ## Getting started
 
 ```
-git clone https://github.com/makkhay/FirebaseAI-Android-Chat-App.git
+git clone https://github.com/gitproject09/FirebaseAIChatAndroid.git
 
 Open it using android studio and run on the emulator 
 ```
 ```
 Sign up for firebase add your google json file. 
-
-
-
-## Feedback
-
-In case you have any feedback or questions, feel free to open a new issues on this repo or reach out to me [**@makkhay**](https://github.com/makkhay) on Github. Thanks
 
 
 
